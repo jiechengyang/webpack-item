@@ -4,8 +4,6 @@ br>
 br>
 插件与模块的功能不一样，模块是为了导入非es5格式js或其它资源类型文件，定制了一些loader。插件是对最后的打包文件进行处理的，也可以理解loader是为打包前做准备，plugin是打包再进行处理
 br>
-```
-<p style="text-align:right">
+<p align="right">
   <strong>我写PHP的</strong>
 </p>
-```
